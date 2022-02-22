@@ -50,7 +50,9 @@ INSTRUÇÕES:
 
 Seguindo a formula:
 V(G) = E – N + 2 - onde E é o número de arestas (setas) e N é o número de nós do grafo G.
-V(G) = 16 - 13 + 2 
+
+V(G) = 16 - 13 + 2
+
 V(G) = 5
 #### 4. Caminhos de Execução Existentes
 
