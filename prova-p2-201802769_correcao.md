@@ -48,20 +48,20 @@ INSTRUÇÕES:
     1.1
 O Processo de Teste de Software tem como principal objetivo estruturar as etapas, as atividades, os artefatos, os papéis, e as responsabilidades dos testes, criando um processo organizacional de todo o ciclo do teste.
 O Projeto de Testes informa a estrutura dos elementos de testes e a relização dos casos de teste.
-Já o Plano de Teste é um documento que demonstra em uma abordagem sistemática para os testes, modelando detalhadamente o fluxo de trabalho de testes do processo de teste.
+Já o Plano de Teste é um documento que demonstra em uma abordagem sistemática para os testes, modelando detalhadamente o fluxo de trabalho de testes do processo de teste. <font color="red">Nota 0,5</font>
 
     1.2
-O Processo de Teste estrutura como os testes deveram ser organizados, estruturados e quais suas responsabilidades, o projeto de teste informa como será feita a implementação do processo de teste, e o plano informa sistematicamente como o projeto de teste será executado.
+O Processo de Teste estrutura como os testes deveram ser organizados, estruturados e quais suas responsabilidades, o projeto de teste informa como será feita a implementação do processo de teste, e o plano informa sistematicamente como o projeto de teste será executado. <font color="red">Nota 0,5</font>
 
 2.
 
-A atividade de teste no processo de teste ágil é realizada em todas as fases do projeto, onde todos os profissionais envolvidos no ciclo de vida do software participam da garantia da qualidade, logo temos que a responsabilidade da qualidade passa a ser de toda a equipe, integrando diversas áreas focando em construir o software bem feito, em vez de construir e depois encontrar defeitos, assim o sistema já nasce sendo pensado na qualidade, diminuindo o retrabalho e a quantidade de defeitos, assim como, o time inteiro participa ativamente da qualidade, gerando um fluxo ágil dentro do processo de teste.
+A atividade de teste no processo de teste ágil é realizada em todas as fases do projeto, onde todos os profissionais envolvidos no ciclo de vida do software participam da garantia da qualidade, logo temos que a responsabilidade da qualidade passa a ser de toda a equipe, integrando diversas áreas focando em construir o software bem feito, em vez de construir e depois encontrar defeitos, assim o sistema já nasce sendo pensado na qualidade, diminuindo o retrabalho e a quantidade de defeitos, assim como, o time inteiro participa ativamente da qualidade, gerando um fluxo ágil dentro do processo de teste. <font color="red">Nota 1,0</font>
 
 3.
 
 Os resultados dos testes, casos de testes e documentação de testes são geradas a medida que os testes são realizados.
 Os testadores podem interagir com a aplicação da forma como quiserem e usar as informações obtidas para, reagir, alterar o curso e explorar funcionalidades da aplicação sem repressão.
-Com a falta de preparação, estrutura e diretrizes podem levar a improdutividade e reteste da mesma funcionalidade várias vezes.
+Com a falta de preparação, estrutura e diretrizes podem levar a improdutividade e reteste da mesma funcionalidade várias vezes. <font color="red">Nota 1,0</font>
 
 4.
 
@@ -125,6 +125,7 @@ Cénarios de Teste Conta
 | CET41| Debitar Juros Cheque Especial > 0 | Válido|
 | CET42| Debitar Juros Cheque Especial < 0 |Iválido|
 
+<font color="red">Nota 1,5</font>
     4.2
 
 Os casos de Teste Equivalem a numeração especifica dos cenarios de testes, exemplo, CT1 equivale a CET1.
@@ -173,3 +174,5 @@ Os casos de Teste Equivalem a numeração especifica dos cenarios de testes, exe
 | CT40 | Transferir = 15          | true               |
 | CT41 | Transferir = -15         | false              |
 | CT42 | Debitar Juros = 15       | true               |
+
+<font color="red">Nota 1,0</font>
